@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+   viewBox="0 0 576 576" width="576" height="576">
+   <defs>
+     <filter id="gray">
+       <feColorMatrix type="saturate" values="0"/>
+     </filter>
+   </defs>
+   <style type="text/css">
+     <![CDATA[
+     image { filter: url(#gray); }
+     ]]>
+   </style>
+   <image xmlns:xlink="http://www.w3.org/1999/xlink"
+     xlink:href="https://apps.daiiz.dev/photos/pancake.jpg"
+     x="0" y="0" width="576" height="576">
+   </image>
+ </svg>

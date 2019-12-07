@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "『探究 SVGとスクリーンショット』のサンプルコード",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheTeamJ/svg-screenshot-book.git"
@@ -14,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/TheTeamJ/svg-screenshot-book/issues"
   },
-  "homepage": "https://github.com/TheTeamJ/svg-screenshot-book#readme"
+  "homepage": "https://github.com/TheTeamJ/svg-screenshot-book#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

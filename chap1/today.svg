@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 400 300" width="400" height="300">
+   <rect x="10" y="10" width="380" height="280"
+         stroke="#ccc" fill="rgba(0,0,0,0)" stroke-width="2" />
+   <text x="50%" y="160" font-weight="600" font-size="160"
+         text-anchor="middle" fill="#000">23</text>
+   <text x="50%" y="260" font-weight="600" font-size="80"
+         text-anchor="middle" fill="#000">火</text>
+ </svg>

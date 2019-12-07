@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+   viewBox="0 0 500 500" width="500" height="500">
+   <image xmlns:xlink="http://www.w3.org/1999/xlink"
+     xlink:href="https://apps.daiiz.dev/photos/pancake.jpg"
+     x="0" y="0" width="500" height="500">
+   </image>
+   <defs>
+     <style type="text/css">
+       <![CDATA[
+       .date {
+         font-size: 25px;
+         font-weight: bold;
+         font-family: 'Courier New';
+         fill: #fff;
+         text-shadow: 1px  1px 0 #111, -1px  1px 0 #111,
+                      1px -1px 0 #111, -1px -1px 0 #111;
+       }
+       ]]>
+     </style>
+   </defs>
+   <a xmlns:xlink="http://www.w3.org/1999/xlink"
+       xlink:href="https://miil.me/p/a194q" target="_blank"
+       style="cursor: pointer">
+       <rect x="250" y="470"
+             width="250" height="30" fill="transparent"/>
+       <text x="250" y="490" class="date">2019-02-17 12:18</text>
+   </a>
+ </svg>
