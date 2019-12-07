@@ -1,0 +1,18 @@
+{
+  "name": "svg-screenshot-book",
+  "version": "1.0.0",
+  "description": "『探究 SVGとスクリーンショット』のサンプルコード",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTeamJ/svg-screenshot-book.git"
+  },
+  "author": "daiiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheTeamJ/svg-screenshot-book/issues"
+  },
+  "homepage": "https://github.com/TheTeamJ/svg-screenshot-book#readme"
+}
