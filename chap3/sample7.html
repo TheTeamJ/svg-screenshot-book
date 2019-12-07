@@ -1,0 +1,21 @@
+<!-- http://localhost:8080/chap3/sample7.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      dpi-aware-image {
+        display: block;
+        --max-width: 1000px;
+        --max-height: 300px;
+      }
+    </style>
+    <script src="/chap3/parse-png-format.js"></script>
+    <script src="/chap3/get-image-size.js"></script>
+    <script src="/chap3/dpi-aware-image.js"></script>
+  </head>
+
+  <body>
+    <dpi-aware-image src='/chap3/sample/retina_plus.png'></dpi-aware-image>
+    <dpi-aware-image src='/chap3/sample/retina_pancake_2.png'></dpi-aware-image>
+  </body>
+</html>
