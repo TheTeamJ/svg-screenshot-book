@@ -16,7 +16,7 @@
   "homepage": "https://github.com/TheTeamJ/svg-screenshot-book#readme",
   "dependencies": {
     "anchors-in-area": "github:daiiz/anchors-in-area#simple",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "puppeteer": "^2.0.0"
   }
 }
